@@ -1,11 +1,11 @@
 # Site settings
 author: Youri Cadet
-title: 
+title: Coding journey
 header-img: img/home-bg.png
 email: cadetjesusyouri@gmail.com
 copyright_name: Youri Cadet
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coding 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Cadetyouri
