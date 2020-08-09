@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "any commonalities between code and other aspects of your life?"
-date:       2020-08-09 05:26:44 +0000
+date:       2020-08-09 01:26:45 -0400
 permalink:  any_commonalities_between_code_and_other_aspects_of_your_life
 ---
 
