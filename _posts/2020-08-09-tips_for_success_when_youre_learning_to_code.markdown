@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Tips for success when you're learning to code"
-date:       2020-08-09 05:59:08 +0000
+date:       2020-08-09 01:59:09 -0400
 permalink:  tips_for_success_when_youre_learning_to_code
 ---
 
