@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Ruby Languages "
-date:       2020-08-09 05:46:49 +0000
+title:      "Ruby  **the red gem**"
+date:       2020-08-09 01:46:50 -0400
 permalink:  ruby_languages
 ---
 
