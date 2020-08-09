@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Flatiron school."
-date:       2020-08-09 05:35:50 +0000
+date:       2020-08-09 01:35:51 -0400
 permalink:  flatiron_school
 ---
 
